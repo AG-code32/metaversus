@@ -8,7 +8,7 @@ const Page = () => (
 
     <div className="relative">
       <About />
-        <div className="gradient-03 z-0" />
+      <div className="gradient-03 z-0" />
       <Explore />
     </div>
 
@@ -21,10 +21,9 @@ const Page = () => (
     <World />
 
     <div className="relative">
-    <Insights />
-    <div className="gradient-03 z-0" />
-    <Feedback />
-    
+      <Insights />
+      <div className="gradient-03 z-0" />
+      <Feedback />
     </div>
     <Footer />
   </div>
